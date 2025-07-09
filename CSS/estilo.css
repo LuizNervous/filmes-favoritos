@@ -30,6 +30,7 @@ main {
 
 img {
     padding: 4px;
+    border-radius: 10px;
 }
 
 .filmes {
